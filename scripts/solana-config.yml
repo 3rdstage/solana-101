@@ -1,0 +1,9 @@
+---
+# https://docs.rs/solana-cli-config/latest/solana_cli_config/struct.Config.html
+
+json_rpc_url: http://127.0.0.1:8899
+websocket_url: ws://127.0.0.1:8900
+keypair_path: ./solana-id.json
+address_labels:
+  "11111111111111111111111111111111": System Program
+commitment: confirmed
