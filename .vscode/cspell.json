@@ -50,7 +50,8 @@
     "contrs",
     "descr", // description
     "fctr", // factory
-    "rslt" // result
+    "rslt", // result
+    "Sangmoon"
   ],
   "flagWords": [
     "hte"
